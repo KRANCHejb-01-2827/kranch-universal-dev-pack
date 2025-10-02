@@ -1,0 +1,55 @@
+{
+  "name": "kranch-universal-dev-pack",
+  "displayName": "Kranch Universal Dev Pack",
+  "description": "All-in-one extension pack for C++, Web, Mobile, Desktop, Java, C#, Go, Rust, and backend development on Ubuntu.",
+  "version": "1.0.0",
+  "publisher": "kranch",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KRANCHejb-01-2827/kranch-universal-dev-pack.git"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-vscode.cpptools",
+    "ms-vscode.cmake-tools",
+    "twxs.cmake",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "ritwickdey.LiveServer",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.auto-close-tag",
+    "ecmel.vscode-html-css",
+    "ms-vscode.vscode-typescript-next",
+    "rangav.vscode-thunder-client",
+    "humao.rest-client",
+    "mongodb.mongodb-vscode",
+    "Dart-Code.dart-code",
+    "Dart-Code.flutter",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "vscjava.vscode-java-pack",
+    "vscjava.vscode-spring-initializr",
+    "vscjava.vscode-maven",
+    "vscjava.vscode-java-test",
+    "ms-dotnettools.csharp",
+    "ms-dotnettools.csdevkit",
+    "golang.go",
+    "rust-lang.rust-analyzer",
+    "eamodio.gitlens",
+    "ms-azuretools.vscode-docker",
+    "mtxr.sqltools",
+    "redhat.vscode-yaml",
+    "eriklynd.json-tools",
+    "aykutsarac.jsoncrack-vscode",
+    "streetsidesoftware.code-spell-checker",
+    "CoenraadS.bracket-pair-colorizer-2",
+    "usernamehw.errorlens",
+    "PKief.material-icon-theme"
+  ]
+}
+
